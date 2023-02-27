@@ -1,5 +1,5 @@
-# 💫 About Me:
-Systems and cloud engineer<br>+7 años de experiencia en el sector TI<br><br>🎶 Pasión por la música.<br>🏍️ Amo viajar en moto.
+# 💫 Hi, I'm Diego Fer:
+Systems and cloud engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> <br>+7 años de experiencia en el sector TI<br><br>🎶 Pasión por la música.<br>🏍️ Amo viajar en moto.
 
 
 ## 🌐 Socials:
