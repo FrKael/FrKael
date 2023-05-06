@@ -4,8 +4,8 @@ System engineer with more than 7 years of experience in the IT world. I've been 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
 
 <br>Devoted to music 🎶 in personal time
-<br>🎮Love playing videogames
-<br>Love exploring new destinations on a motorcycle 🏍️
+<br>Love 🎮 playing videogames
+<br>Love exploring new destinations on a 🏍️ motorcycle 
 
 
 ## 🌐 Socials:
