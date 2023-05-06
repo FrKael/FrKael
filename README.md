@@ -1,5 +1,7 @@
 # 💫 Hi, I'm Diego Fer
-System engineer with more than 7 years of experience in the IT world. I've been honing my skills in AWS cloud solutions development in recent months, as well as on the path to becoming a DevOps profesional. 
+System engineer with more than 7 years of experience in the IT world.
+
+I've been honing my skills in AWS cloud solutions development in recent months, as well as on the path to becoming a DevOps profesional. 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
 
