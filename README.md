@@ -1,7 +1,10 @@
 # 💫 Hi, I'm Diego Fer
 System engineer with more than 7 years of experience in the IT world. I've been honing my skills in AWS cloud solutions development in recent months, as well as on the path to becoming a DevOps profesional. 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120"> <br><br>Devoted to music 🎶 in personal time<br> <br>🎮Love playing videogames<br>Love exploring new destinations on a motorcycle 🏍️
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
+
+<br>Devoted to music 🎶 in personal time<br>
+<br>🎮Love playing videogames<br>Love exploring new destinations on a motorcycle 🏍️
 
 
 ## 🌐 Socials:
